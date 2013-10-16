@@ -1,0 +1,18 @@
+msgid "login failed"
+msgstr "ورود ناموفق بود"
+
+msgid "Supervisor Role Title"
+msgstr "سرپرست"
+
+msgid "Editor Role Title"
+msgstr "ویراستار"
+
+msgid "Creator Role Title"
+msgstr "تولید‌کننده محتوا"
+
+msgid "Manager Role Title"
+msgstr "مدیر"
+
+#Model Validating
+msgid "Your email address is invalid"
+msgstr "آدرس پست الکترونیک شما معتبر نیست"

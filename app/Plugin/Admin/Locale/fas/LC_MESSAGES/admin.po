@@ -1,0 +1,48 @@
+msgid "Supervisor Role Title"
+msgstr "سرپرست"
+
+msgid "User Role Title"
+msgstr "کاربر"
+
+msgid "Creator Role Title"
+msgstr "تولید‌کننده محتوا"
+
+msgid "Manager Role Title"
+msgstr "مدیر"
+
+msgid "Access denied"
+msgstr "دسترسی به این صفحه ندارید"
+
+msgid "Master Creator Role Title"
+msgstr "تولیدکننده حرفه‌ای محتوا"
+
+msgid "There is not such id"
+msgstr "چنین شناسه‌ای وجود ندارد"
+
+msgid "Bad parameters"
+msgstr "پارامتر‌های ارسال شده اشتباه هستند"
+
+msgid "User profle just deactivated"
+msgstr "پروفایل کاربر غیرفعال شد"
+
+msgid "Invalid email or password, try again"
+msgstr "ایمیل یا کلمه عبور اشتباه است، دوباره تلاش کنید"
+
+msgid "The news is ready to review now"
+msgstr "خبر اکنون آماده بازبینی است"
+
+#Model Validating
+msgid "Your email address is invalid"
+msgstr "آدرس پست الکترونیک شما معتبر نیست"
+
+msgid "Email address is used already"
+msgstr "پیش از این از این پست الکترونیکی استفاده می‌شده است."
+
+msgid "input must have valid url"
+msgstr "اینپوت باید آدرس معتبر داشته باشد"
+
+msgid "max lenght of input is %s"
+msgstr "حداکثر طول کاراکتر کجاز %s است"
+
+msgid "any space character is invalid"
+msgstr "هر نوع کاراکتر فاصله غیرمجاز است"
